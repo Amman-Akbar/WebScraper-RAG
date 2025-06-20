@@ -1,0 +1,17 @@
+streamlit>=1.28.0
+selenium>=4.15.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-pinecone>=0.0.1
+langchain-groq>=0.0.1
+langchain-huggingface>=0.0.1
+langchain-text-splitters>=0.0.1
+pinecone-client>=2.2.4
+PyPDF2>=3.0.0
+Pillow>=10.0.0
+reportlab>=4.0.0
+webdriver-manager>=4.0.0
+python-dotenv>=1.0.0
+pandas>=2.0.0 
