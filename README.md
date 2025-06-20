@@ -1,4 +1,4 @@
-# 🌍 GlobalApply AI Scraper & RAG System
+# 🌍 AI Scraper & RAG System
 
 A powerful Retrieval-Augmented Generation (RAG) application that scrapes web content, processes it into structured data, and enables intelligent question-answering through a conversational interface.
 
@@ -33,7 +33,7 @@ User Input → Web Scraping → Content Processing → Vector Storage → RAG Q&
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Amman-Akbar/WebScraper-RAG.git
-   cd UPDATED-RAG
+   cd WebScraper-RAG
    ```
 
 2. **Install dependencies**
@@ -72,7 +72,7 @@ User Input → Web Scraping → Content Processing → Vector Storage → RAG Q&
 ## 📁 Project Structure
 
 ```
-UPDATED RAG/
+WebScraper-RAG/
 ├── main.py                 # Streamlit application entry point
 ├── scraper.py             # Web scraping functionality
 ├── llama_parser.py        # PDF processing with LlamaParse
